@@ -2,5 +2,6 @@
 	"name": "feature",
 	"version": "0.0.1",
 	"description": "multimath app",
-	"f2" : "feature evolving 2"
+	"f2" : "feature evolving 2",
+	"f3" : "feature evolving 3"
 }

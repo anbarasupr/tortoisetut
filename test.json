@@ -4,6 +4,7 @@
   "description": "multimath app",
   "commits": {
 	"m1" : "Initial Commit",
-	"m2" : "added test json" 
+	"m2" : "added test json" ,
+	"m3" : "master evolving 3" 
   }
 }

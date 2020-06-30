@@ -1,0 +1,9 @@
+{
+  "name": "multimath",
+  "version": "0.0.1",
+  "description": "multimath app",
+  "commits": {
+	"m1" : "Initial Commit",
+	"m2" : "added test json" 
+  }
+}

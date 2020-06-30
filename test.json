@@ -9,7 +9,8 @@
 		"mybranch-merge" : "newly created",
 		"commits" : {
 			"f1" : "Initial Commit",
-			"f2" : "feature evolving"
+			"f2" : "feature evolving 2",
+			"f3" : "feature evolving 3",
 		}
 	}
   }

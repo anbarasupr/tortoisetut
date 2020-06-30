@@ -13,5 +13,8 @@
 			"f3" : "feature evolving 3",
 		}
 	}
+	"m2" : "added test json",
+	"m3" : "master evolving 3",
+	"m4" : "master evolving 4"
   }
 }
